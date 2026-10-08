@@ -33,18 +33,17 @@ It brings Biblical days, months, Sabbaths, feasts, new moons, daily astronomical
 ## 🔐 Secure Personal Vault
 
 - 🛡️ **Strong security architecture** for protecting the user's private data.
-- 🔑 **The recovery key belongs only to the user** and is not stored in the application's cloud backup.
-- ☁️ Backups stored on Google Drive contain the **encrypted vault**, not the user's recovery key.
-- 📱 After importing a vault onto another device, the user can unlock it with their recovery key and then use the device's hardware-backed security for everyday access.
+- 🔑 **The key on paper (26 characters) belongs only to the user** and is never stored in the application's cloud backup.
+- ☁️ Backups stored on Google Drive contain only **encrypted** data, never the user's key.
+- 📱 After bringing a profile onto another device, the user opens it with the key on paper and then uses the device's hardware-backed security for everyday access.
 - 🚫 The user remains in control of the key required to recover the vault.
 
 ## 👨‍👩‍👧‍👦 Personal & Family Features
 
 - 📔 **Daily Journal** — a private daily journal protected by **PIN, fingerprint, or password**.
 - 🎂 **Birthdays of Loved Ones** — add the birthdays of family members and loved ones to the calendar, including their **photo**.
-- 📅 **Automatic Yearly Birthday Display** — once a birthday is entered, the algorithm displays it every year on the exact corresponding date in all three calendar systems:
+- 📅 **Automatic Yearly Birthday Display** — once a birthday is entered, the algorithm displays it every year on the exact corresponding date in the calendar system you choose:
   - 📜 **Biblical Calendar System**
-  - 🌌 **Astronomical System**
   - 🏛️ **Gregorian (Roman) System**
 
 ## 🎯 Purpose
@@ -77,7 +76,11 @@ This public repository is a project presentation and information page. It does *
 
 ## 📬 Contact
 
-For questions, suggestions, or project feedback, please use the GitHub Issues section of this repository.
+For questions, suggestions, or project feedback, write to **contact@pybuilt.tech** or use the GitHub Issues section of this repository.
+
+- 🌐 App page: https://pybuilt.tech/biblical-calendar/
+- 🔒 Privacy Policy: https://pybuilt.tech/biblical-calendar/privacy-en.html
+- 📄 Terms of Use: https://pybuilt.tech/biblical-calendar/terms-en.html
 
 ---
 
